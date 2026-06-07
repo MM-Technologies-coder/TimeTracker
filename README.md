@@ -61,6 +61,6 @@ Problem Solving & Ottimizzazione: Scrittura di codice asincrono nel frontend e g
 ## ✉️ Contatti & Link
 **Sviluppatore: Mattia Mungari**
 
-LinkedIn: [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/mattiamungari)
+LinkedIn: [![LinkedIn]](https://www.linkedin.com/in/mattiamungari)
 
 Email: mungari.mattia@outlook.com
