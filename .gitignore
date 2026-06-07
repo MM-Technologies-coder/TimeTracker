@@ -1,0 +1,6 @@
+dati_aziendali.db
+dist/
+build/
+*.exe
+*.pyc
+__pycache__/
