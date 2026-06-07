@@ -41,3 +41,26 @@ Posizionati nella cartella del server ed esegui:
 ```bash
 pip install flask
 python app.py
+```
+
+**Il server sarà attivo su http://localhost:5000**
+
+---
+
+## 📈 Competenze Dimostrate in questo Progetto
+Questo progetto riflette solide basi di ingegneria del software e networking, in particolare:
+
+Database Design: Progettazione di schemi relazionali corretti, gestione di indici UNIQUE e query aggregate complesse (strftime, ROUND).
+
+Network & Security: Logica client-server basata su protocollo HTTP, gestione di endpoint API REST e configurazione di socket su IP statici locali (es. ambiente Cisco/Zyxel).
+
+Problem Solving & Ottimizzazione: Scrittura di codice asincrono nel frontend e gestione della memoria/prestazioni nel codice C++.
+
+---
+
+## ✉️ Contatti & Link
+**Sviluppatore: Mattia Mungari**
+
+LinkedIn: linkedin.com/in/mattiamungari
+
+Email: mungari.mattia@outlook.com
